@@ -1,5 +1,6 @@
-// JavaScript Interview Questions Start ---------------------------
-// Theory Satrt -------------
+// Inheritance using Classes (Prototypal Inheritance) Start ------------------------
+
+// Theory Start -------------
 
 // Constructor Functions
 // 🔹 What is a Constructor Function?
@@ -76,7 +77,6 @@
 
 // Theory End-------------
 
-// Inheritance using Classes (Prototypal Inheritance) Start ------------------------
 class Person {
     talk() {
         return 'Talking';
@@ -156,6 +156,4 @@ console.log(you.talk); // talk also exists!
 // 2. If you have components that have shared functionality
 
 // Inheritance using Classes (Prototypal Inheritance) End ------------------------
-
-//  JavaScript Interview Questions End ---------------------------
 
